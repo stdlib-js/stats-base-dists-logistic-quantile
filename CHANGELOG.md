@@ -4,15 +4,25 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-17)
+## Unreleased (2025-04-06)
+
+<section class="features">
+
+### Features
+
+-   [`1239d3e`](https://github.com/stdlib-js/stdlib/commit/1239d3e02fdf17231770487c72238b4797e8e449) - add C implementation for `stats/base/dists/logistic/quantile` [(#4352)](https://github.com/stdlib-js/stdlib/pull/4352)
+
+</section>
+
+<!-- /.features -->
 
 <section class="issues">
 
 ### Closed Issues
 
-This release closes the following issue:
+A total of 2 issues were closed in this release:
 
-[#4978](https://github.com/stdlib-js/stdlib/issues/4978)
+[#3743](https://github.com/stdlib-js/stdlib/issues/3743), [#4978](https://github.com/stdlib-js/stdlib/issues/4978)
 
 </section>
 
@@ -24,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`1239d3e`](https://github.com/stdlib-js/stdlib/commit/1239d3e02fdf17231770487c72238b4797e8e449) - **feat:** add C implementation for `stats/base/dists/logistic/quantile` [(#4352)](https://github.com/stdlib-js/stdlib/pull/4352) _(by Dhruv Arvind Singh, Philipp Burckhardt, stdlib-bot)_
 -   [`0d255bc`](https://github.com/stdlib-js/stdlib/commit/0d255bc39e0a122554fbc972be6c0973abb2c48a) - **bench:** refactor random number generation in JS benchmarks for `stats/base/dists/logistic` [(#5139)](https://github.com/stdlib-js/stdlib/pull/5139) _(by GK Bishnoi, Gopi Kishan)_
 -   [`4a70790`](https://github.com/stdlib-js/stdlib/commit/4a707903dfef7c2b56216000165706497d19a251) - **style:** add missing spaces _(by Philipp Burckhardt)_
 
@@ -37,8 +48,9 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
+-   Dhruv Arvind Singh
 -   GK Bishnoi
 -   Gopi Kishan
 -   Philipp Burckhardt
