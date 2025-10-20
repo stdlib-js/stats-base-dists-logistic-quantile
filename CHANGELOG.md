@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-08-04)
+## Unreleased (2025-10-20)
 
 <section class="features">
 
@@ -34,10 +34,15 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`e4be7f9`](https://github.com/stdlib-js/stdlib/commit/e4be7f953df25fba01efe2355dd82208023a00f6) - **docs:** replace manual `for` loop in examples [(#8259)](https://github.com/stdlib-js/stdlib/pull/8259) _(by Harsh Yadav)_
+-   [`fc438e0`](https://github.com/stdlib-js/stdlib/commit/fc438e0edbad0689d6923d6f3edb959b96597662) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
+-   [`11581aa`](https://github.com/stdlib-js/stdlib/commit/11581aaca8c3cb824cbb92c0c0f80e76890bdb20) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
+-   [`07f7c05`](https://github.com/stdlib-js/stdlib/commit/07f7c0522c73e6ad9505e1d45035ae439344200d) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
+-   [`9c21fd2`](https://github.com/stdlib-js/stdlib/commit/9c21fd20ef8b8a6a88abb96d80ea6d8e4c5434eb) - **test:** use .strictEqual() instead of .equal() _(by Philipp Burckhardt)_
 -   [`0a23889`](https://github.com/stdlib-js/stdlib/commit/0a23889dd55afcd8f1a85cd208a2397c931637bd) - **test:** increase tolerances for passing tests _(by Philipp Burckhardt)_
 -   [`8db8a75`](https://github.com/stdlib-js/stdlib/commit/8db8a75120b87f97994f429ddfe3aef7d8396eae) - **chore:** clean-up _(by Athan Reines)_
 -   [`1239d3e`](https://github.com/stdlib-js/stdlib/commit/1239d3e02fdf17231770487c72238b4797e8e449) - **feat:** add C implementation for `stats/base/dists/logistic/quantile` [(#4352)](https://github.com/stdlib-js/stdlib/pull/4352) _(by Dhruv Arvind Singh, Philipp Burckhardt, stdlib-bot)_
--   [`0d255bc`](https://github.com/stdlib-js/stdlib/commit/0d255bc39e0a122554fbc972be6c0973abb2c48a) - **bench:** refactor random number generation in JS benchmarks for `stats/base/dists/logistic` [(#5139)](https://github.com/stdlib-js/stdlib/pull/5139) _(by GK Bishnoi, Gopi Kishan)_
+-   [`0d255bc`](https://github.com/stdlib-js/stdlib/commit/0d255bc39e0a122554fbc972be6c0973abb2c48a) - **bench:** refactor random number generation in JS benchmarks for `stats/base/dists/logistic` [(#5139)](https://github.com/stdlib-js/stdlib/pull/5139) _(by Gopi Kishan, Gopi Kishan)_
 -   [`4a70790`](https://github.com/stdlib-js/stdlib/commit/4a707903dfef7c2b56216000165706497d19a251) - **style:** add missing spaces _(by Philipp Burckhardt)_
 
 </details>
@@ -54,8 +59,8 @@ A total of 5 people contributed to this release. Thank you to the following cont
 
 -   Athan Reines
 -   Dhruv Arvind Singh
--   GK Bishnoi
 -   Gopi Kishan
+-   Harsh Yadav
 -   Philipp Burckhardt
 
 </section>
